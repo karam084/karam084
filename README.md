@@ -1,8 +1,8 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="cover"margin-left="10px"/>
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </div>
-### Hi there, 👋 I'm Karam Fouad,
 
+### Hi there, 👋 I'm Karam Fouad,
 - 🔭 I’m currently a full time student at Microverse Online School.
 - 🌱 I’m currently learning Full-Stack Web Development (Ruby on Rails, JavaScript and React) and Peer Programming.
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project.
